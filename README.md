@@ -72,9 +72,9 @@ streamlit run Metal_OCR_detection.py
 ## 📸 Demo Screenshots
 <p align="center">
   <img src="assets/Screenshot1.png" alt="App Screenshot" width="700">
-  <img src="assets/Screenshot2" alt="App Screenshot" width="700">
-  <img src="assets/Screenshot3" alt="App Screenshot" width="700">
-  <img src="assets/Screenshot4" alt="App Screenshot" width="700">
+  <img src="assets/Screenshot2.png" alt="App Screenshot" width="700">
+  <img src="assets/Screenshot3.png" alt="App Screenshot" width="700">
+  <img src="assets/Screenshot4.png" alt="App Screenshot" width="700">
 </p>
 
 
