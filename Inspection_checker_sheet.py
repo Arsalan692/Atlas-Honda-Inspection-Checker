@@ -24,7 +24,7 @@ structured_llm = llm.with_structured_output(DataHolder)
 # --- PAGE CONFIG ---
 st.set_page_config(
     page_title="Atlas Honda Inspection Checker",
-    page_icon="Main_code/icon.jpg",
+    page_icon="assets\icon.jpg",
     layout="wide"
 )
 
