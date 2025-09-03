@@ -65,7 +65,7 @@ GOOGLE_API_KEY=your_api_key_here
 
 ### 6️⃣ Run the app
 ```bash
-streamlit run Metal_OCR_detection.py
+streamlit run Inspection_checker_sheet.py
 ```
 ---
 
